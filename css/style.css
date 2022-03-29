@@ -5,6 +5,9 @@ html {
 ul {
     list-style: none;
 }
+img {
+    width: 100%;
+}
 
 
 
@@ -20,4 +23,13 @@ header {
 .menu-list ul li {
     display: inline-block;
     margin-right: 3rem;
+}
+/* Header */
+
+/* Jumbotron */
+.jumbotron {
+    background-color: aqua;
+}
+.avatar-wrapper img {
+    max-width: 8rem;
 }
