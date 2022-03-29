@@ -44,5 +44,14 @@ header {
 .img-wrapper img {
     border-radius: 10px;
 }
+    /* About */
 
+.about {
 
+    background-color: aqua;
+}
+
+.about-container {
+    width: 60%;
+    margin: 0 auto;
+}
