@@ -26,10 +26,23 @@ header {
 }
 /* Header */
 
-/* Jumbotron */
+/* Main */
+
+    /* Jumbotron */
 .jumbotron {
     background-color: aqua;
 }
 .avatar-wrapper img {
     max-width: 8rem;
 }
+    /* Portfolio */
+
+.img-wrapper {
+    border: 2px solid transparent;
+}
+
+.img-wrapper img {
+    border-radius: 10px;
+}
+
+
