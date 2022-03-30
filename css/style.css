@@ -29,6 +29,9 @@ a {
     background-color: white;
 }
 
+.black {
+    background-color: black;
+}
 
 /* Header */
 header {
@@ -72,12 +75,18 @@ header {
     /* About */
 
 .about {
-    background-color: aqua;
+    background-color: #1abc9c;
+    color: white;
 }
 
 .ms-container {
     width: 60%;
     margin: 0 auto;
+}
+
+.ms_btn_download {
+    background-color: #1abc9c;
+    border: 1px solid white; 
 }
 
 footer {
